@@ -1,1 +1,1 @@
-first change to file1.txt - author Bogdan Velicu
+This is the 3rd modification from hotfix_branch first change to file1.txt - author Bogdan Velicu
